@@ -1,13 +1,13 @@
 {
   "name": "Akshit Jareat",
-  "title": "AI Developer | Full Stack Developer",
-  "tagline": "Building intelligent systems and scalable web applications",
+  "title": "AI & Full-Stack Developer | Third-Year Student",
+  "tagline": "Building intelligent web applications while strengthening my DSA and problem-solving skills",
   "profile_image": "/images/profile.jpg",
   "education": {
-    "status": "2nd Year (Final month ongoing)",
+    "status": "Third-Year Student",
     "cgpa": "9.5"
   },
-  "about": "I am a passionate developer focused on building AI-powered applications and scalable web solutions. I have strong foundations in both frontend and backend technologies, along with core computer science subjects. Currently, I am advancing my problem-solving skills in Data Structures and Algorithms.",
+  "about": "I am a third-year computer science student and developer who enjoys turning ideas into useful, intelligent products. I build AI-powered applications and scalable full-stack web solutions while continuing to strengthen my core computer science foundations. Alongside development, I am actively learning Data Structures and Algorithms to become a more thoughtful and effective problem solver.",
   "skills": {
     "frontend": ["HTML", "CSS", "JavaScript", "React"],
     "backend": ["Node.js", "MongoDB", "SQL"],
@@ -19,11 +19,15 @@
       "Machine Learning",
       "Database Management Systems"
     ],
-    "current_focus": ["Data Structures and Algorithms"]
+    "current_focus": [
+      "Data Structures and Algorithms",
+      "Problem Solving",
+      "Full-Stack Development"
+    ]
   },
   "coding_progress": {
-    "dsa_questions_solved": 5,
-    "status": "Beginner, actively improving problem-solving skills"
+    "dsa_questions_solved": 8,
+    "status": "Actively learning DSA and building a consistent problem-solving practice"
   },
   "projects_note": "Multiple AI-based and automation projects including chatbot systems and form autofillers.",
   "projects": [
@@ -54,19 +58,19 @@
   ],
   "profiles": {
     "github": "https://github.com/akshit-jareat",
-    "linkedin": "https://in.linkedin.com/in/akshit-jareat-27per"
+    "linkedin": "https://www.linkedin.com/in/akshit-jareat-27per/"
   },
   "timeline": [
     {
       "period": "Current",
       "title": "Advancing DSA and Problem Solving",
       "type": "focus",
-      "description": "Solving Data Structures and Algorithms questions as a beginner and actively building problem-solving consistency.",
-      "tags": ["DSA", "Problem Solving", "Practice"]
+      "description": "Learning Data Structures and Algorithms, solving questions regularly, and building a consistent approach to problem solving.",
+      "tags": ["DSA", "Problem Solving", "Consistent Practice"]
     },
     {
-      "period": "2nd Year",
-      "title": "Computer Science Foundations",
+      "period": "Third Year",
+      "title": "Strengthening Computer Science Foundations",
       "type": "education",
       "description": "Maintaining a 9.5 CGPA while studying operating systems, computer networks, machine learning, DBMS, and computer organization.",
       "tags": ["9.5 CGPA", "Core CS", "Machine Learning"]

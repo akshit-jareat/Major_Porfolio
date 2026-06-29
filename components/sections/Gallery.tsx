@@ -9,33 +9,27 @@ import SectionHeader from "@/components/ui/SectionHeader";
 const galleryItems = [
   {
     id: 1,
-    src: "https://images.unsplash.com/photo-1504639725590-34d0984388bd?w=800&q=80",
-    alt: "Code on screen",
+    src: "/images/profile1.png",
+    alt: "Akshit Jareat — Moment 01",
     span: "col-span-1 row-span-2",
   },
   {
     id: 2,
-    src: "https://images.unsplash.com/photo-1550439062-609e1531270e?w=800&q=80",
-    alt: "Workspace setup",
+    src: "/images/profile2.png",
+    alt: "Akshit Jareat — Moment 02",
     span: "col-span-1",
   },
   {
     id: 3,
-    src: "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80",
-    alt: "Circuit board macro",
+    src: "/images/profile3.png",
+    alt: "Akshit Jareat — Moment 03",
     span: "col-span-1",
   },
   {
     id: 4,
-    src: "https://images.unsplash.com/photo-1542831371-29b0f74f9713?w=800&q=80",
-    alt: "Design sketches",
+    src: "/images/profile4.png",
+    alt: "Akshit Jareat — Moment 04",
     span: "col-span-2",
-  },
-  {
-    id: 5,
-    src: "https://images.unsplash.com/photo-1481487196290-c152efe083f5?w=800&q=80",
-    alt: "Laptop minimal",
-    span: "col-span-1",
   },
 ];
 
@@ -127,7 +121,7 @@ export default function Gallery() {
         <SectionHeader
           label="05 — Gallery"
           title="Visual notes"
-          subtitle="Moments from the studio — click any image to expand."
+          subtitle="A few moments from my journey — click any image to expand."
         />
 
         {/* Masonry grid */}
